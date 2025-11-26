@@ -36,3 +36,7 @@ Hier kann zunächst nur der Mannschaftsname, die Altersklasse sowie
     Name ist. 
 
 ![](img/manual/7-team-add-details.png)
+
+## Einzelsportler*innen
+
+## Abschließen der Meldung
