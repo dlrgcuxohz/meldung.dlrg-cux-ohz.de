@@ -1,0 +1,14 @@
+site_name: Meldung Bezirksmeisterschaften Cuxhaven-Osterholz
+theme:
+  name: 'rtd-dropdown'
+  locale: de
+nav:
+- 'Informationen zur Meldung': 'index.md'
+- 'registrierung.md'
+- 'anforderung.md'
+- 'meldung.md'
+- 'mannschaftsmitglieder.md'
+repo_url: https://github.com/dlrgcuxohz/meldung.dlrg-cux-ohz.de/
+site_author: 'DLRG Bezirk Cuxhaven-Osterholz e.V.'
+plugins:
+   - glightbox
