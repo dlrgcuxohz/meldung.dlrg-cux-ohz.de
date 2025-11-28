@@ -37,5 +37,37 @@ Hier kann zunächst nur der Mannschaftsname, die Altersklasse sowie
 ![](img/manual/7-team-add-details.png)
 
 ## Einzelsportler*innen
+Zur Meldung von Einzelsportler\*innen kann im Abschnitt **Teilnehmener** 
+    per _Teilnehmer hinzufügen_ ein\*e neue\*r Teilnehmer\*in hinzugefügt
+    werden.
+
+![](img/manual/8-individual-add.png)
+
+Im folgenden Dialog werden Vorname (1), Name (2), Jahrgang (3) und 
+    Geschlecht (5) ausgewählt. 
+
+![](img/manual/9-individual-dialog.png)
+
+Hier können auch Personen hinzugefügt werden, die reine Mannschaftsmitglieder sind.
+    In diesem Fall darf im Feld Altersklasse (4) keine Altersklasse
+    ausgewählt werden. Falls hier eine ausgewählt wird, wird die 
+    Person für den Einzelwettkampf gemeldet.
+
+Nach dem Speichern kann mit dem Klick auf das Stoppuhr-Symbol
+    ggf. die Disziplinauswahl durchgeführt werden und Meldepunkte
+    eingetragen werden.
+
+![](img/manual/10-individual-times.png)
+
+Im folgenden Dialog werden die Disziplinen ausgewählt und Meldepunkte angegeben.
+    Die Meldezeiten werden dabei ohne Doppelpunkte und Kommata eingegeben, 
+    die Zeichen werden automatisch eingefügt. Rechts neben der Eingabe kann diese
+    kontrolliert werden. 
+
+![](img/manual/11-individual-times-entry.png)
+
+In der Tabelle lassen sich dann alle eingegebenen Daten noch einmal kontrollieren.
+
+![](img/manual/12-individual-full-list.png)
 
 ## Abschließen der Meldung
