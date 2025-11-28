@@ -1,7 +1,6 @@
-# Meldung für die Bezirksmeisterschaften 2026
+# Meldevorgang
 
-Hier wird nun beschrieben, wie für die Meldung für die
-Bezirksmeisterschaften vorzugehen ist.
+Hier wird nun beschrieben, wie für die Meldung vorzugehen ist.
 
 ## Kontaktdaten
 
