@@ -71,3 +71,27 @@ In der Tabelle lassen sich dann alle eingegebenen Daten noch einmal kontrolliere
 ![](img/manual/12-individual-full-list.png)
 
 ## Abschließen der Meldung
+Zum Abschließen der Meldung kann der **Meldung abschließen**-Knopf gedrückt werden.
+
+![](img/manual/13-complete-registration.png)
+
+Das System weist nun auf eventuelle Probleme mit der Meldung hin, die vor dem 
+    Abschließen korrigiert werden müssen.
+
+![](img/manual/14-complete-issues.png)
+
+Falls keine Probleme bestehen, öffnet sich ein Dialog, in dem die Pflichtangaben, 
+    in unserem Fall die Datenschutzerklärung (1) sowie die Erklärung nach § 4 des 
+    Regelwerks (2) bestätigt werden müssen.
+
+![](img/manual/15-complete-required-fields.png)
+
+Nach einem weiteren Klick auf **Meldung abschließen** ist die Meldung abgegeben
+    und wird für den Wettkampf berücksichtigt. 
+
+Bis zum Meldeschluss kann die Meldung jederzeit mit Klick auf **Meldung erneut 
+    öffnen** zum Bearbeiten wieder geöffnet werden.
+
+![](img/manual/16-complete-reopen.png)
+
+Danach sollte sie wieder geschlossen werden.
