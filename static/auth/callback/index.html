@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <title>Weiterleitung</title>
+  <script>
+    (function () {
+      var target = 'http://localhost:5173/auth/callback';
+      var query = window.location.search;
+      window.location.replace(target + query);
+    })();
+  </script>
+</head>
+<body>
+  <noscript>
+    JavaScript ist für die Weiterleitung erforderlich.
+  </noscript>
+</body>
+</html>
